@@ -1,5 +1,7 @@
 # MALLORN: Many Artificial LSST Light curves based on Observations of Real Nuclear transients
 
+<img width="3508" height="2717" alt="mallorn_tree_y" src="https://github.com/user-attachments/assets/95360707-b9f1-4973-9d44-ed44ec997886" />
+
 This GitHub contains the full MALLORN data set. If used, please cite [Magill et al. 2026](https://ui.adsabs.harvard.edu/abs/2026RASTI...5ag019M/abstract).
 
 MALLORN comprises 10 178 simulated LSST light curves, constructed from real Zwicky Transient Facility (ZTF) observations of 64 tidal disruption events (TDEs), 727 nuclear supernovae and 1407 active galactic nuclei (AGN) with spectroscopic labels using Gaussian process fitting, empirically motivated spectral energy distributions from SNCosmo and the baseline from the Rubin Survey Simulator. Our novel approach can be easily adapted to simulate transients for any photometric survey using observations from another, requiring only the limiting magnitudes and an estimate of the cadence of observations.
